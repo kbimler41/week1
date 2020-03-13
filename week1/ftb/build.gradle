@@ -1,0 +1,25 @@
+apply plugin: 'java'
+
+group = 'ftb'
+version = '1.0.0'
+
+task wrapper(type: Wrapper) {
+    jarFile = "${project.projectDir}/.gradle-wrapper/gradle-wrapper.jar"
+    gradleVersion = '5.4.1'
+}
+
+compileJava {
+    options.encoding = 'UTF-8'
+    options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation" << "-Werror"
+}
+
+sourceCompatibility = 1.11
+targetCompatibility = 1.11
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'Main'
+        )
+    }
+}

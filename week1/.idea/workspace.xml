@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="115383e6-00a8-44ab-ab4d-8b6255426652" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1Z37MvDiWmyKhmbFR1HgCMteUIu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scratch/src/test/java" />
+      <recent name="$PROJECT_DIR$/scratch/src" />
+      <recent name="$PROJECT_DIR$/scratch/src/main/java" />
+      <recent name="$PROJECT_DIR$/ftb/src/main/java" />
+      <recent name="$PROJECT_DIR$/feature/src/main/week1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="115383e6-00a8-44ab-ab4d-8b6255426652" name="Default Changelist" comment="" />
+      <created>1584055878723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584055878723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="83" key="#/Users/iveelsm/git/kaid/week1/build.gradle" timestamp="1584058859785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#/Users/iveelsm/git/kaid/week1/build.gradle/0.0.1440.900@0.0.1440.900" timestamp="1584058859785" />
+    <state x="416" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584058352177">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="416" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1584058352177" />
+    <state x="570" y="317" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584055918978">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="570" y="317" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.797@0.23.1440.797" timestamp="1584055918978" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1584059451236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584059451236" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584059737441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584059737441" />
+  </component>
+</project>

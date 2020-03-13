@@ -1,0 +1,4 @@
+rootProject.name = 'week1'
+include 'feature'
+include 'ftb'
+include 'scratch'
